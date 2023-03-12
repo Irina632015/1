@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\Geekbrains\Итоги блока. Выбор специализации. IT-специалист\1\bin\Debug\net7.0\1.exe
+C:\Users\Ирина\Desktop\Geekbrains\Итоги блока. Выбор специализации. IT-специалист\1\bin\Debug\net7.0\1.deps.json
+C:\Users\Ирина\Desktop\Geekbrains\Итоги блока. Выбор специализации. IT-специалист\1\bin\Debug\net7.0\1.runtimeconfig.json
+C:\Users\Ирина\Desktop\Geekbrains\Итоги блока. Выбор специализации. IT-специалист\1\bin\Debug\net7.0\1.dll
+C:\Users\Ирина\Desktop\Geekbrains\Итоги блока. Выбор специализации. IT-специалист\1\bin\Debug\net7.0\1.pdb
+C:\Users\Ирина\Desktop\Geekbrains\Итоги блока. Выбор специализации. IT-специалист\1\obj\Debug\net7.0\1.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\Geekbrains\Итоги блока. Выбор специализации. IT-специалист\1\obj\Debug\net7.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\Geekbrains\Итоги блока. Выбор специализации. IT-специалист\1\obj\Debug\net7.0\1.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\Geekbrains\Итоги блока. Выбор специализации. IT-специалист\1\obj\Debug\net7.0\1.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\Geekbrains\Итоги блока. Выбор специализации. IT-специалист\1\obj\Debug\net7.0\1.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\Geekbrains\Итоги блока. Выбор специализации. IT-специалист\1\obj\Debug\net7.0\1.dll
+C:\Users\Ирина\Desktop\Geekbrains\Итоги блока. Выбор специализации. IT-специалист\1\obj\Debug\net7.0\refint\1.dll
+C:\Users\Ирина\Desktop\Geekbrains\Итоги блока. Выбор специализации. IT-специалист\1\obj\Debug\net7.0\1.pdb
+C:\Users\Ирина\Desktop\Geekbrains\Итоги блока. Выбор специализации. IT-специалист\1\obj\Debug\net7.0\1.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\Geekbrains\Итоги блока. Выбор специализации. IT-специалист\1\obj\Debug\net7.0\ref\1.dll
